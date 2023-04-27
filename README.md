@@ -1,2 +1,1 @@
-# Java
-# Mi primer readme
+#Resolviendo ejercicios Java competitivo
